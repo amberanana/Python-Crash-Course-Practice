@@ -20,3 +20,11 @@ for pizza in list:
  print(pizza)
  print("I really " + pizza.title() + " pizza!" )
 print("I really love pizza.")
+print("\n")
+
+# Practice 4-2
+animals = ['dog', 'cat', 'rabbit']
+for animal in animals:
+ print(animal)
+ print("A " + animal + " would make a great pet.")
+print("Any of these animals would make a great pet!")
