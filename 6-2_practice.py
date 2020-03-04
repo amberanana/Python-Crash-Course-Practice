@@ -29,8 +29,8 @@ vocab_list = {
     'path': '路径',
     'index': '索引',
 }
-print("Tuple's means " + vocab_list['tuple'] + " in Chinese.")
-print("Syntax's means " + vocab_list['syntax'] + " in Chinese.")
-print("Value's means " + vocab_list['value'] + " in Chinese.")
-print("Path's means " + vocab_list['path'] + " in Chinese.")
-print("Index's means " + vocab_list['index'] + " in Chinese.")
+print("Tuple means " + vocab_list['tuple'] + " in Chinese.")
+print("Syntax means " + vocab_list['syntax'] + " in Chinese.")
+print("Value means " + vocab_list['value'] + " in Chinese.")
+print("Path means " + vocab_list['path'] + " in Chinese.")
+print("Index means " + vocab_list['index'] + " in Chinese.")
