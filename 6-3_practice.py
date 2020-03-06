@@ -33,6 +33,7 @@ for river in rivers.keys():
 for place in rivers.values():
     print(place)
 
+# 6-6 poll
 favorite_languages = {
     'jen': 'python',
     'sarah': 'c',
