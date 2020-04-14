@@ -1,0 +1,16 @@
+# Chapter 8 function
+# 8.1 Define function
+
+def greet_user():
+    "显示最简单的问候语"
+    print("Hello!")
+
+greet_user()
+
+# 8.1.1 delivering message to function
+
+def greet_user(username):
+    "显示简单的问候语"
+    print("Hello, " + username.title() + "!")
+
+greet_user('jesse')
