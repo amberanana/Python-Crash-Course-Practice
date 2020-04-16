@@ -1,5 +1,5 @@
 # 8.2 Deliver Actual Parameter
-# 8.2.1
+# 8.2.1 位置实参
 def describe_pet(animal_type, pet_name):
     "显示宠物的信息"
     print("\nI have a " + animal_type + ".")
